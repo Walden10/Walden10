@@ -62,5 +62,3 @@ Here are some of my projects that demonstrate my work in analytics, AI, and ML:
 ## 📫 Connect With Me  
 - **LinkedIn:** [linkedin.com/in/maizmohamed](https://www.linkedin.com/in/ahmed-maiz-mohamed-074331126/)  
 
----
-💬 *"Data without action is just noise — my passion is turning it into measurable business impact."*
